@@ -1,0 +1,1 @@
+// Page de lecture d'une capsule
